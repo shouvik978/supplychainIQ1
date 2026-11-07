@@ -53,6 +53,6 @@ The current prototype uses simulated warehouse data and rule-based decision logi
 
 👥 Team
 
-Team Name: [Your Team Name]
+Team Name: BLQCKVERSE.0.1
 
 Event: AGENTIC CHASE '26
